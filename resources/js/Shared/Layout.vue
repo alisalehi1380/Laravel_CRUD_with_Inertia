@@ -7,7 +7,7 @@
     </Head>
 
     <div class="grid grid-cols-12 gap-3">
-        <sidebar class="col-span-4 px-8 bg-gray-200 pt-8 h-screen">
+        <sidebar class="col-span-3 px-8 bg-gray-200 pt-8 h-screen">
             <h1 class="text-xl font-bold">My App</h1>
             <p class="mt-4">
                 Welcome Back, {{ $page.props.auth.user.name }}!
@@ -15,7 +15,7 @@
             <Nav />
         </sidebar>
 
-        <section class="mx-8 col-span-8 mt-8">
+        <section class="mx-8 col-span-9 mt-8">
             <slot />
 
         </section>
