@@ -1,4 +1,4 @@
-#CRUD User Table with Laravel, Vue.js and Inertia.js
+# CRUD User Table with Laravel, Vue.js and Inertia.js
 
 This project is a simple CRUD (Create,Read, Update and Delete) application built using Laravel, Vue.js and Inertia.js. It allows you to manage userdata with ease.
 
